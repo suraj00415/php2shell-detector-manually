@@ -1,0 +1,11 @@
+# Generated payloads
+payloads/
+payloads_*/
+*.bin
+
+# Request files with target-specific headers/cookies
+request_*.txt
+
+# Node
+node_modules/
+.claude
